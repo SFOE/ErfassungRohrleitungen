@@ -37,7 +37,7 @@ Folgende Werkzeuge eignen sich für die Erstellung von INTERLIS-Geodaten:
 * Mit dem Plugin *ili2fme* können INTERLIS-Daten in FME gelesen und geschrieben werden.
 * [Download](https://www.interlis.ch/downloads/ili2fme)
 * [Dokumentation](https://www.geo.admin.ch/de/geodatenmodelle/)
-* [FME-Template](https://uvek-gis.admin.ch/BFE/berichte/VersorgungsgebieteThermischerNetze/FME_Template_DE.zip)
+* FME-Template (folgt)
 
 ### ili2db - Ladeprogramm für Datenbanken (PostgrSQL/PostGIS, GeoPackage oder ESRI FileGDB)
 * Mit ili2db kann ein modellkonformes Datenbankschema erstellt werden. Aus diesem Datenbankschema können anschliessend valide INTERLIS-Daten exportiert werden.
