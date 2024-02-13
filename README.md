@@ -8,20 +8,18 @@ Der Verband Thermische Netze Schweiz und das Bundesamt für Energie erstellen ei
 * [INTERLIS - Geodaten validieren](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/tree/main#interlis---geodaten-validieren)
 * [Geodaten publizieren](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/tree/main#geodaten-publizieren)
 
-Bei Fragen oder Unklarheiten erstellen Sie einen [Issue](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/issues) oder schreiben Sie eine [E-Mail](mailto:geoinformation@bfe.admin.ch)
+Bei Fragen oder Unklarheiten erstellen Sie einen [Issue](https://github.com/SFOE/ErfassungRohrleitungen/issues) oder schreiben Sie eine [E-Mail](mailto:geoinformation@bfe.admin.ch)
 
 
 
 ## Minimales Geodatenmodell
 Das minimale Geodatenmodell (MGDM) und die Dokumentation finden Sie hier:
 * [Minimales Geodatenmodell](https://models.geo.admin.ch/BFE/PipelinesystemUnderSupervisionByFederalGovernment_V1.ili)
-* [Dokumentation minimales Geodatenmodell](https://www.bfe.admin.ch/bfe/de/home/versorgung/statistik-und-geodaten/geoinformation/geodaten/thermische-netze/versorgungsgebiete-thermischer-netze.html)
+* [Dokumentation minimales Geodatenmodell](https://www.bfe.admin.ch/bfe/de/home/versorgung/statistik-und-geodaten/geoinformation/geodaten/leitungen/rohrleitungsanlagen.html)
 * Kataloge
-  * [SupplyTerritoriesOfThermalNetworks_EnergySource_Catalogue_V1.xml](https://models.geo.admin.ch/BFE/SupplyTerritoriesOfThermalNetworks_EnergySource_Catalogue_V1.xml)
-  * [SupplyTerritoriesOfThermalNetworks_ObligationToConnect_Catalogue_V1.xml](https://models.geo.admin.ch/BFE/SupplyTerritoriesOfThermalNetworks_ObligationToConnect_Catalogue_V1.xml)
-  * [SupplyTerritoriesOfThermalNetworks_SourceofHeat_Catalogue_V1.xml](https://models.geo.admin.ch/BFE/SupplyTerritoriesOfThermalNetworks_SourceofHeat_Catalogue_V1.xml)
-  * [SupplyTerritoriesOfThermalNetworks_Status_Catalogue_V1.xml](https://models.geo.admin.ch/BFE/SupplyTerritoriesOfThermalNetworks_Status_Catalogue_V1.xml)
-* [Testdaten in INTERLIS](https://uvek-gis.admin.ch/BFE/berichte/VersorgungsgebieteThermischerNetze/Testdaten_Interlis.zip)
+  * [CoordinationOfficeSustainableMobility_SponsorTypeCatalogue_V1.xml](https://models.geo.admin.ch/BFE/CoordinationOfficeSustainableMobility_SponsorTypeCatalogue_V1.xml)
+  * [CoordinationOfficeSustainableMobility_StatusCatalogue_V1.xml](https://models.geo.admin.ch/BFE/CoordinationOfficeSustainableMobility_StatusCatalogue_V1.xml)
+  * [CoordinationOfficeSustainableMobility_TopicCatalogue_V1.xml](https://models.geo.admin.ch/BFE/CoordinationOfficeSustainableMobility_TopicCatalogue_V1_20200130.xml)
 
 ## INTERLIS - Allgemeine Informationen
 Die Geodaten müssen in INTERLIS erstellt werden. Hier finden Sie allgemeine Informationen zu INTERLIS:
