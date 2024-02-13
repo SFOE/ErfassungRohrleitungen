@@ -3,10 +3,10 @@
 Das Bundesamt für Energie hat den Auftrag eine Übersicht über die Rohrleitungsanlagen und Schutzbereiche zu erstellen. Die Geodaten werden von den Anlagebetreibenden gemäss minimalem Geodatenmodell erfasst. Hier finden Sie nützliche Informationen welche bei der Erfassung der Geodaten helfen können.
 
 * [Minimales Geodatenmodell](https://github.com/SFOE/ErfassungRohrleitungen/tree/main#minimales-geodatenmodell)
-* [INTERLIS - Allgemeine Informationen](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/tree/main#interlis---allgemeine-informationen)
-* [INTERLIS - Geodaten erfassen](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/tree/main#interlis---geodaten-erfassen)
-* [INTERLIS - Geodaten validieren](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/tree/main#interlis---geodaten-validieren)
-* [Geodaten publizieren](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/tree/main#geodaten-publizieren)
+* [INTERLIS - Allgemeine Informationen](https://github.com/SFOE/ErfassungRohrleitungen/tree/main#interlis---allgemeine-informationen)
+* [INTERLIS - Geodaten erfassen](https://github.com/SFOE/ErfassungRohrleitungen/tree/main#interlis---geodaten-erfassen)
+* [INTERLIS - Geodaten validieren](https://github.com/SFOE/ErfassungRohrleitungen/tree/main#interlis---geodaten-validieren)
+* [Geodaten publizieren](https://github.com/SFOE/ErfassungRohrleitungen/tree/main#geodaten-publizieren)
 
 Bei Fragen oder Unklarheiten erstellen Sie einen [Issue](https://github.com/SFOE/ErfassungRohrleitungen/issues) oder schreiben Sie eine [E-Mail](mailto:geoinformation@bfe.admin.ch)
 
