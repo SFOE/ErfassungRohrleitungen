@@ -17,9 +17,10 @@ Das minimale Geodatenmodell (MGDM) und die Dokumentation finden Sie hier:
 * [Minimales Geodatenmodell](https://models.geo.admin.ch/BFE/PipelinesystemUnderSupervisionByFederalGovernment_V1.ili)
 * [Dokumentation minimales Geodatenmodell](https://www.bfe.admin.ch/bfe/de/home/versorgung/statistik-und-geodaten/geoinformation/geodaten/leitungen/rohrleitungsanlagen.html)
 * Kataloge
-  * [CoordinationOfficeSustainableMobility_SponsorTypeCatalogue_V1.xml](https://models.geo.admin.ch/BFE/CoordinationOfficeSustainableMobility_SponsorTypeCatalogue_V1.xml)
-  * [CoordinationOfficeSustainableMobility_StatusCatalogue_V1.xml](https://models.geo.admin.ch/BFE/CoordinationOfficeSustainableMobility_StatusCatalogue_V1.xml)
-  * [CoordinationOfficeSustainableMobility_TopicCatalogue_V1.xml](https://models.geo.admin.ch/BFE/CoordinationOfficeSustainableMobility_TopicCatalogue_V1_20200130.xml)
+  * [PipelineStatusCatalogue](https://models.geo.admin.ch/BFE/PipelinesystemUnderSupervisionByFederalGovernment_PipelineStatusCatalogue_V1.xml)
+  * [MediumTypeCatalogue](https://models.geo.admin.ch/BFE/PipelinesystemUnderSupervisionByFederalGovernment_MediumTypeCatalogue_V1.xmll)
+  * [ContainerTypeCatalogue](https://models.geo.admin.ch/BFE/PipelinesystemUnderSupervisionByFederalGovernment_ContainerTypeCatalogue_V1.xml)
+  * [AttendantPlantTypeCatalogue](https://models.geo.admin.ch/BFE/PipelinesystemUnderSupervisionByFederalGovernment_AttendantPlantTypeCatalogue_V1.xml)
 
 ## INTERLIS - Allgemeine Informationen
 Die Geodaten müssen in INTERLIS erstellt werden. Hier finden Sie allgemeine Informationen zu INTERLIS:
